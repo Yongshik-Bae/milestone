@@ -8,7 +8,7 @@ Derived from features in Project Description documents.
 
 | ID            | Group                | Brief                                 | Description                                                  |
 | ------------- | -------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| IFTA_FR_01_01 | Metadata             | Aircraft information lookup           | The system shall be able to retrieve aircraft information (e.g., airline, aircraft type etc.) in real time based on ICAO address |
+| IFTA_FR_01_01 | Metadata             | Aircraft information lookup           | The system shall be able to retrieve aircraft information (e.g., airline, aircraft type etc.) in real time based on ICAO addresfs |
 | IFTA_FR_01_02 | Metadata             | Route information lookup              | The system shall be able to query and display flight route data (e.g., airways, waypoints etc) |
 | IFTA_FR_01_03 | Metadata             | Origin and Destination identification | The system shall be able to identify and provide to the user the origin and destination information (e.g. Departure/Destination Airport Codes) of each aircraft |
 | IFTA_FR_02_01 | Time series Analysis | Flight history tracking               | The system must store data such as the aircraft's position, altitude, speed and heading in chronological order |
